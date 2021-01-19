@@ -1,29 +1,23 @@
 [
     {
-      "title": "Weather Dashboard",
-      "repo": "https://github.com/Blakeehhler/Weather-dashboard",
-      "live": "https://blakeehhler.github.io/Weather-dashboard/",
-      "image": "weather.PNG"
-    },
-    {
       "title": "Budget Tracker - PWA",
-      "repo": "https://github.com/Blakeehhler/buget-tracker",
-      "live": "https://bugettacker4658.herokuapp.com/",
+      "repo": "https://github.com/Jermdude7/budget-tracker",
+      "live": "https://jeremysbudgettracker.herokuapp.com/",
       "image": "buget.png"
 
     },
     {
       "title": "Workout Tracker",
-      "repo": "https://github.com/Blakeehhler/Workout-Tracker",
-      "live": "https://workout-tracker435987.herokuapp.com/",
+      "repo": "https://github.com/Jermdude7/workout",
+      "live": "https://jeremysworkoutapp.herokuapp.com/",
       "image": "fitness.png"
 
     },
     {
-      "title": "Code Quiz",
-      "repo": "https://github.com/Blakeehhler/Code-Quiz",
-      "live": "https://blakeehhler.github.io/Code-Quiz/",
-      "image": "quiz.png"
+      "title": "Note Taker",
+      "repo": "https://github.com/Jermdude7/notes",
+      "live": "https://evening-brushlands-34485.herokuapp.com/",
+      "image": "notes.png"
     },
     {
       "title": "Good Games EZ",
@@ -32,9 +26,9 @@
       "image": "ggez.png"
     },
     {
-      "title": "Albuy Marketplace",
-      "repo": "https://github.com/Blakeehhler/Albuy-Marketplace",
-      "live": "https://fathomless-eyrie-52685.herokuapp.com/",
-      "image": "albuy.png"
+      "title": "Magic the Gabbering",
+      "repo": "https://github.com/Jermdude7/supreme-winner",
+      "live": "https://sheltered-tor-50073.herokuapp.com/",
+      "image": "magic.png"
     }
 ]
