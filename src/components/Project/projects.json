@@ -30,5 +30,11 @@
       "repo": "https://github.com/Jermdude7/supreme-winner",
       "live": "https://sheltered-tor-50073.herokuapp.com/",
       "image": "magic.png"
+    },
+    {
+      "title": "Shield & Sword",
+      "repo": "WordPress",
+      "live": "https://shieldandsword.org/",
+      "image": "shield&sword.png"
     }
-]
+  ]
