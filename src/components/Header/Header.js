@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <nav class="navbar navbar-expand-lg">
       <Link class="navbar-brand-name" to="/">
-        Blake Ehler
+        Jeremy Greenfield
       </Link>
       <button
         class="navbar-toggler"

@@ -2,4 +2,4 @@
 
 A simple react portfolio about me 
 
-Check it out here : https://practical-jackson-9d54ed.netlify.app/
+Check it out here : https://jeremys-portfolio.netlify.app/
