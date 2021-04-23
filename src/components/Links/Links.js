@@ -14,7 +14,7 @@ export default function Links() {
       <a href="https://github.com/Jermdude7" target="_blank" rel="noopener noreferrer">
         GitHub
       </a>{" -- "}
-      <a href="https://docs.google.com/document/d/1oGHUBf6-s3z50JYkeXL8PXP_iph47TvPUCnoqTof4kI/edit#"
+      <a href="https://docs.google.com/document/d/1ssQQ3El7UkGKw3C-_f0C_NVWjBqF6Syl/edit"
         target="_blank" rel="noopener noreferrer">
         Resume
       </a>
